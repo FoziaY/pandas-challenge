@@ -1,5 +1,9 @@
 # Pandas Challenge: PyCitySchools
 
+<img src="https://media.licdn.com/dms/image/D5612AQFbpgGAr5mqqw/article-cover_image-shrink_600_2000/0/1704477591953?e=2147483647&v=beta&t=PjRe1TshkF9dGu9aoNgnga6ivZmWouJRBXWokuBAB_4
+" alt="Crowdfunding Project Analysis" style="width: 100%; height: auto;">
+
+***
 ## Background
 As the new Chief Data Scientist for the city's school district, you are tasked with analyzing district-wide standardized test results. The goal is to aggregate the data and showcase trends in school performance to help the school board and mayor make informed decisions regarding future school budgets and priorities.
 
